@@ -5,7 +5,7 @@
   "description": "New project",
   "owner": "User",
   "createdAt": "2026-03-03T03:06:31.827Z",
-  "currentDiagramType": "StateMachineDiagram",
+  "currentDiagramType": "ClassDiagram",
   "diagrams": {
     "ClassDiagram": {
       "id": "83f13092-42eb-4925-9c46-19b86917e9f4",
@@ -416,7 +416,7 @@
         },
         "assessments": {}
       },
-      "lastUpdate": "2026-03-03T04:14:36.167Z"
+      "lastUpdate": "2026-03-03T04:35:25.457Z"
     },
     "ObjectDiagram": {
       "id": "e80bb7d8-07c3-4f91-b6c7-709fd292ac4a",
@@ -2299,7 +2299,7 @@
         "symbols": [],
         "version": "0.21.13"
       },
-      "lastUpdate": "2026-03-03T04:33:20.930Z"
+      "lastUpdate": "2026-03-03T04:34:50.930Z"
     },
     "QuantumCircuitDiagram": {
       "id": "54d6f5f8-2317-466e-86c1-a66642b71cb6",
